@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sanket Dighe 👋
 
 🤖 **AI/ML Engineer | Generative AI & NLP Enthusiast | Python Developer**  
 💡 Passionate about building intelligent systems that solve real-world problems.  
